@@ -1,0 +1,32 @@
+* text=auto
+
+*.unity text eol=lf
+*.prefab text eol=lf
+*.asset text eol=lf
+*.meta text eol=lf
+*.mat text eol=lf
+*.anim text eol=lf
+*.controller text eol=lf
+*.overrideController text eol=lf
+*.physicMaterial text eol=lf
+*.physicsMaterial2D text eol=lf
+*.renderTexture text eol=lf
+*.playable text eol=lf
+*.asmdef text eol=lf
+*.asmref text eol=lf
+*.inputactions text eol=lf
+
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.tga binary
+*.psd binary
+*.fbx binary
+*.mp3 binary
+*.wav binary
+*.ogg binary
+*.mp4 binary
+*.mov binary
+*.ttf binary
+*.otf binary

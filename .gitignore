@@ -1,0 +1,46 @@
+# Unity generated folders
+/Library/
+/Temp/
+/Obj/
+/Build/
+/Builds/
+/Logs/
+/UserSettings/
+/MemoryCaptures/
+
+# Unity generated files
+/sysinfo.txt
+*.stackdump
+
+# Burst debug output
+/*_BurstDebugInformation_DoNotShip/
+
+# Build outputs
+*.apk
+*.aab
+*.unitypackage
+*.app
+*.ipa
+*.exe
+
+# IDE and OS files
+.DS_Store
+.idea/
+.vscode/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Local tooling
+/.codely-cli/
+/.codelyignore
+/.com-unity-codely.json
